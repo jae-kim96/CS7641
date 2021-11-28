@@ -1,7 +1,7 @@
 Assignment 3: Unsupervised Learning and Dimensionality Reduction 
 by Jaeyong Kim (GTiD: 903042675, ID: jkim3018)
 
-URL for Code:
+URL for Code: https://github.com/jae-kim96/CS7641/tree/main/hw3
 
 How to run the code:
 1) 	Install Packages:
